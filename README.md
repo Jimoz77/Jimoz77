@@ -1,4 +1,6 @@
-## Hi there 👋
+## Jimpa 
+
+<img width="600" height="338" alt="gorilaspin" src="https://github.com/user-attachments/assets/0f40f2f4-6864-40c0-b311-a11abacfa93d" />
 
 <!--
 **Jimoz77/Jimoz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
